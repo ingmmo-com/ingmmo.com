@@ -1,0 +1,8 @@
+timezone: "UTC"
+markdown: kramdown
+
+collections:
+- lessons
+- conferences
+- topics
+- connections
